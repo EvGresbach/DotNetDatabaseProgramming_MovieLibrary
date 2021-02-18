@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\evxin\\OneDrive\\Desktop\\WCTC\\Spring 2021\\dotNet\\Class4\\MovieLibrary\\MovieLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\evxin\\OneDrive\\Desktop\\WCTC\\Spring 2021\\dotNet\\Class4\\MovieLibrary\\MovieLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\evxin\\OneDrive\\Desktop\\WCTC\\Spring 2021\\dotNet\\Class4\\MovieLibrary\\MovieLibrary.csproj",
+        "projectName": "MovieLibrary",
+        "projectPath": "C:\\Users\\evxin\\OneDrive\\Desktop\\WCTC\\Spring 2021\\dotNet\\Class4\\MovieLibrary\\MovieLibrary.csproj",
+        "packagesPath": "C:\\Users\\evxin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\evxin\\OneDrive\\Desktop\\WCTC\\Spring 2021\\dotNet\\Class4\\MovieLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\evxin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
